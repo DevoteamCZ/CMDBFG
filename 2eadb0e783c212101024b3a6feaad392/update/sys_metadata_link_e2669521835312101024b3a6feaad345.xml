@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4d61d169831312101024b3a6feaad32b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="rm_epic">
+    <rm_epic action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <activity_due/>
+        <additional_assignee_list/>
+        <allow_dates_outside_schedule>false</allow_dates_outside_schedule>
+        <approval>not requested</approval>
+        <approval_history/>
+        <approval_set/>
+        <assigned_to/>
+        <assignment_group/>
+        <business_duration/>
+        <business_service/>
+        <calculation_type>automatic</calculation_type>
+        <calendar_duration/>
+        <close_notes/>
+        <closed_at/>
+        <closed_by/>
+        <cmdb_ci/>
+        <color display_value="BluePalette_5">3f804840d7333100b4964ebfae610329</color>
+        <comments/>
+        <comments_and_work_notes/>
+        <company/>
+        <completed_count>0</completed_count>
+        <completed_estimate>0</completed_estimate>
+        <constraint_date/>
+        <contact_type/>
+        <contract/>
+        <correlation_display/>
+        <correlation_id/>
+        <critical_path>false</critical_path>
+        <delivery_plan/>
+        <delivery_task/>
+        <dependency/>
+        <description/>
+        <due_date/>
+        <duration>1970-01-02 00:00:00</duration>
+        <effort/>
+        <end>2025-01-24</end>
+        <end_date>2025-01-24 11:49:23</end_date>
+        <end_date_derived_from/>
+        <escalation>0</escalation>
+        <expected_start/>
+        <follow_up/>
+        <global_rank/>
+        <group_list/>
+        <has_conflict>false</has_conflict>
+        <html_description/>
+        <impact>3</impact>
+        <key_milestone>false</key_milestone>
+        <knowledge>false</knowledge>
+        <level/>
+        <location/>
+        <made_sla>true</made_sla>
+        <milestone>false</milestone>
+        <missing_estimates>2</missing_estimates>
+        <model_id display_value="CMDB Onboarding Program">36fdf8e783c212101024b3a6feaad33b</model_id>
+        <mpp_task_id/>
+        <number>EPIC0010008</number>
+        <opened_at>2025-01-24 11:49:23</opened_at>
+        <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+        <order/>
+        <orig_sys_id/>
+        <orig_top_task_id/>
+        <override_status>false</override_status>
+        <parent/>
+        <parent_epic/>
+        <parent_feature/>
+        <percent_complete>0</percent_complete>
+        <percent_complete_by_count>0</percent_complete_by_count>
+        <percent_complete_by_estimate>0</percent_complete_by_estimate>
+        <primary_goal/>
+        <priority>4</priority>
+        <product display_value="CMDB Onboarding Program">36fdf8e783c212101024b3a6feaad33b</product>
+        <reassignment_count>0</reassignment_count>
+        <rejection_goto/>
+        <relation_applied/>
+        <remaining_duration/>
+        <remaining_effort/>
+        <rollup>false</rollup>
+        <route_reason/>
+        <run_calc_brs>true</run_calc_brs>
+        <schedule_end_date>2025-01-24 11:49:23</schedule_end_date>
+        <schedule_start_date>2025-01-24 11:49:23</schedule_start_date>
+        <service_offering/>
+        <shadow>false</shadow>
+        <short_description>Asset Management</short_description>
+        <skills/>
+        <sla_due/>
+        <software_model/>
+        <start>2025-01-24</start>
+        <start_date>2025-01-24 11:49:23</start_date>
+        <start_date_derived_from/>
+        <state>-6</state>
+        <status>green</status>
+        <sub_tree_root/>
+        <sys_class_name>rm_epic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-24 11:49:26</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4d61d169831312101024b3a6feaad32b</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-24 12:10:20</sys_updated_on>
+        <task>Asset Management​EPIC0010008</task>
+        <task_effective_number>EPIC0010008</task_effective_number>
+        <theme/>
+        <time_constraint>asap</time_constraint>
+        <time_worked/>
+        <time_zone/>
+        <top_task display_value="EPIC0010008">4d61d169831312101024b3a6feaad32b</top_task>
+        <total_estimate>0</total_estimate>
+        <total_story_count>2</total_story_count>
+        <universal_request/>
+        <upon_approval>proceed</upon_approval>
+        <upon_reject>cancel</upon_reject>
+        <urgency>3</urgency>
+        <user_input/>
+        <variables/>
+        <version/>
+        <watch_list/>
+        <wbs/>
+        <wbs_order/>
+        <wf_activity/>
+        <work_duration/>
+        <work_effort/>
+        <work_end/>
+        <work_notes/>
+        <work_notes_list/>
+        <work_start/>
+        <x_devo2_dip_dip_external_id/>
+        <x_devo2_dip_integrated_attachments/>
+    </rm_epic>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-24 12:11:19</sys_created_on>
+        <sys_id>e2669521835312101024b3a6feaad345</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Asset Management</sys_name>
+        <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
+        <sys_update_name>sys_metadata_link_e2669521835312101024b3a6feaad345</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-24 12:11:19</sys_updated_on>
+        <tablename>rm_epic</tablename>
+    </sys_metadata_link>
+</record_update>
