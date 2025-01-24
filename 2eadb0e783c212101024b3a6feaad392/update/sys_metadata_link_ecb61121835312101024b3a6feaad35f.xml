@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>36fdf8e783c212101024b3a6feaad33b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_software_product_model">
+    <cmdb_software_product_model action="INSERT_OR_UPDATE">
+        <acquisition_method/>
+        <activation_status/>
+        <application_model/>
+        <asset_tracking_strategy>leave_to_category</asset_tracking_strategy>
+        <asset_tracking_unit display_value="Individual Unit">51a74add0f233300fee7579ac4767e59</asset_tracking_unit>
+        <barcode/>
+        <build_version/>
+        <bundle>false</bundle>
+        <certified>false</certified>
+        <cmdb_ci_class/>
+        <cmdb_model_category>35bf2d4137101000deeabfc8bcbe5dbd,eefe7854c3031000b959fd251eba8f1e</cmdb_model_category>
+        <comments/>
+        <company/>
+        <current/>
+        <current_unit/>
+        <customer_visible>false</customer_visible>
+        <depreciation/>
+        <depth/>
+        <description/>
+        <dimensions_unit/>
+        <display_name>CMDB Onboarding Program</display_name>
+        <edition/>
+        <end_of_life_date/>
+        <energy_star>false</energy_star>
+        <energy_use/>
+        <expected_lifetime_co2e/>
+        <expenditure_type/>
+        <flow_rate/>
+        <full_name/>
+        <ga_release_date/>
+        <height/>
+        <id/>
+        <inference/>
+        <is_option>false</is_option>
+        <length/>
+        <license_type/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <main_component/>
+        <major_version/>
+        <manufacturer/>
+        <max_sockets/>
+        <max_users/>
+        <min_users/>
+        <minor_version/>
+        <model_number/>
+        <name>CMDB Onboarding Program</name>
+        <next_version/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <power_consumption/>
+        <power_unit/>
+        <product_catalog_item/>
+        <rack_units>1</rack_units>
+        <rated_power/>
+        <review_version/>
+        <rights/>
+        <serial_number/>
+        <short_description/>
+        <single/>
+        <sla/>
+        <software_category/>
+        <sound_power/>
+        <status>In Production</status>
+        <sys_class_name>cmdb_software_product_model</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-29 12:14:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>36fdf8e783c212101024b3a6feaad33b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-29 12:14:18</sys_updated_on>
+        <title/>
+        <track>false</track>
+        <type>Generic</type>
+        <unit_of_measure_system>us imperial</unit_of_measure_system>
+        <version/>
+        <voltage/>
+        <voltage_unit/>
+        <volume/>
+        <volume_unit/>
+        <weight/>
+        <weight_decimal/>
+        <weight_unit/>
+        <width/>
+    </cmdb_software_product_model>
+    <fx_price action="delete_multiple" query="id=36fdf8e783c212101024b3a6feaad33b"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=36fdf8e783c212101024b3a6feaad33b"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-01-24 12:12:34</sys_created_on>
+        <sys_id>ecb61121835312101024b3a6feaad35f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CMDB Onboarding Program</sys_name>
+        <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
+        <sys_update_name>sys_metadata_link_ecb61121835312101024b3a6feaad35f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-01-24 12:12:34</sys_updated_on>
+        <tablename>cmdb_software_product_model</tablename>
+    </sys_metadata_link>
+</record_update>
