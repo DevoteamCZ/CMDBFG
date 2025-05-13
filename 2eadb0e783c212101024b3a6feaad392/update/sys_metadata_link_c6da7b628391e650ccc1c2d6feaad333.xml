@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f793f17f83012210ccc1c2d6feaad36b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_win_server">
+    <cmdb_ci_win_server action="INSERT_OR_UPDATE">
+        <asset display_value="Unknown">83b4b9ff83012210ccc1c2d6feaad309</asset>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status>Not Yet Reviewed</attestation_status>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Hardware</category>
+        <cd_rom>false</cd_rom>
+        <cd_speed/>
+        <change_control/>
+        <chassis_type/>
+        <checked_in/>
+        <checked_out/>
+        <classification>Production</classification>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <cpu_core_count/>
+        <cpu_core_thread/>
+        <cpu_count/>
+        <cpu_manufacturer/>
+        <cpu_name/>
+        <cpu_speed/>
+        <cpu_type/>
+        <default_gateway/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <disk_space/>
+        <dns_domain/>
+        <dr_backup/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <firewall_status>Intranet</firewall_status>
+        <first_discovered>2025-05-13 11:50:02</first_discovered>
+        <floppy/>
+        <form_factor/>
+        <fqdn/>
+        <gl_account/>
+        <hardware_status>installed</hardware_status>
+        <hardware_substatus/>
+        <host_name/>
+        <install_date/>
+        <install_status>1</install_status>
+        <internet_facing>true</internet_facing>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id display_value="Unknown">cfb4b9ff83012210ccc1c2d6feaad305</model_id>
+        <model_number/>
+        <monitor>false</monitor>
+        <most_frequent_user/>
+        <name>Extra Windows Server</name>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <os>Windows</os>
+        <os_address_width/>
+        <os_domain/>
+        <os_service_pack/>
+        <os_version/>
+        <owned_by display_value="Abel Tuter">62826bf03710200044e0bfc8bcbe5df1</owned_by>
+        <po_number/>
+        <product_instance_id/>
+        <purchase_date/>
+        <ram/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory>Computer</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_win_server</sys_class_name>
+        <sys_class_path>/!!/!2/!(/!!/!#</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 13:55:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f793f17f83012210ccc1c2d6feaad36b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 10:57:02</sys_updated_on>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <vendor/>
+        <virtual>false</virtual>
+        <warranty_expiration/>
+    </cmdb_ci_win_server>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-07 12:49:14</sys_created_on>
+        <sys_id>c6da7b628391e650ccc1c2d6feaad333</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Extra Windows Server</sys_name>
+        <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
+        <sys_update_name>sys_metadata_link_c6da7b628391e650ccc1c2d6feaad333</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 12:11:50</sys_updated_on>
+        <tablename>cmdb_ci_win_server</tablename>
+    </sys_metadata_link>
+</record_update>

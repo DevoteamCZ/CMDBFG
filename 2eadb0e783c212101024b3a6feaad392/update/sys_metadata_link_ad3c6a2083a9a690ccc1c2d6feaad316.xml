@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>eae30a6c8325a690ccc1c2d6feaad3fe</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_service_calculated">
+    <cmdb_ci_service_calculated action="INSERT_OR_UPDATE">
+        <aliases/>
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status>Not Yet Reviewed</attestation_status>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <bucket>3</bucket>
+        <busines_criticality>2 - somewhat critical</busines_criticality>
+        <business_contact/>
+        <business_need/>
+        <business_relation_manager/>
+        <business_unit/>
+        <calculation_mode/>
+        <calculation_status>0</calculation_status>
+        <can_print>false</can_print>
+        <category>Business Service</category>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <checkout/>
+        <comments>CRM Platform service</comments>
+        <company/>
+        <compatibility_dependencies/>
+        <consumer_type>internal</consumer_type>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <delivery_manager/>
+        <department/>
+        <discovery_source/>
+        <discovery_status>0</discovery_status>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <end_date/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <hide_from_dashboard>false</hide_from_dashboard>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_calculated>2025-05-13 11:58:00</last_calculated>
+        <last_discovered/>
+        <last_review_date/>
+        <layer display_value="Impact CRM Platform">c5d66a648369a690ccc1c2d6feaad3bb</layer>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <metadata>{
+  "levels" : "8"
+}</metadata>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <monitoring_requirements/>
+        <name>CRM Platform</name>
+        <number>BSN0001003</number>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <parent/>
+        <po_number/>
+        <populator_status>1</populator_status>
+        <portfolio_status>pipeline</portfolio_status>
+        <prerequisites/>
+        <price_model>per_unit</price_model>
+        <price_unit/>
+        <priority>1</priority>
+        <process_status>2</process_status>
+        <product_instance_id/>
+        <published_ref/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <service_classification>Application Service</service_classification>
+        <service_level_requirement/>
+        <service_owner_delegate/>
+        <service_populator display_value="SMDynamicManualServicePopulator">11f01e3dc3f23300daa79624a1d3ae32</service_populator>
+        <service_status>requirements</service_status>
+        <severity>5</severity>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <sla/>
+        <source/>
+        <spm_service_portfolio/>
+        <spm_taxonomy_node/>
+        <stakeholders/>
+        <start_date/>
+        <state/>
+        <subcategory>Service</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_service_calculated</sys_class_name>
+        <sys_class_path>/!!/!7/!(/!!/!#</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 09:18:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eae30a6c8325a690ccc1c2d6feaad3fe</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2025-05-13 11:58:00</sys_updated_on>
+        <traffic_discovery>true</traffic_discovery>
+        <type>5</type>
+        <unit_description/>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <user_group/>
+        <vendor/>
+        <version/>
+        <view_map>5c38c522533321001c1379e5a11c088b</view_map>
+        <view_service>61e1cb757f23220002d31ccebefa9120</view_service>
+        <warranty_expiration/>
+        <work_notes/>
+    </cmdb_ci_service_calculated>
+    <sys_translated_text action="delete_multiple" query="documentkey=eae30a6c8325a690ccc1c2d6feaad3fe"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 12:13:32</sys_created_on>
+        <sys_id>ad3c6a2083a9a690ccc1c2d6feaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CRM Platform</sys_name>
+        <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
+        <sys_update_name>sys_metadata_link_ad3c6a2083a9a690ccc1c2d6feaad316</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 12:13:32</sys_updated_on>
+        <tablename>cmdb_ci_service_calculated</tablename>
+    </sys_metadata_link>
+</record_update>

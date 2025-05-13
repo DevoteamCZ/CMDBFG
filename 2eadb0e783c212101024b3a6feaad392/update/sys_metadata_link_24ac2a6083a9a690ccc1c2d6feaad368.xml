@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>1dc3397f83012210ccc1c2d6feaad3fe</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_vm_instance">
+    <cmdb_ci_vm_instance action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status>Not Yet Reviewed</attestation_status>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <comments/>
+        <company/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <cpus/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <disks/>
+        <disks_size/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered>2025-05-13 11:50:02</first_discovered>
+        <fqdn/>
+        <gl_account/>
+        <guest_os_fullname/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <memory/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>VM Node 07</name>
+        <nics/>
+        <object_id/>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <po_number/>
+        <product_instance_id/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <server/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <state>on</state>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_vm_instance</sys_class_name>
+        <sys_class_path>/!!/!)/!*</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 13:56:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1dc3397f83012210ccc1c2d6feaad3fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 13:56:10</sys_updated_on>
+        <terminated_on/>
+        <termination_protection>false</termination_protection>
+        <unverified>false</unverified>
+        <vendor/>
+        <vm_inst_id/>
+        <warranty_expiration/>
+    </cmdb_ci_vm_instance>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 12:15:23</sys_created_on>
+        <sys_id>24ac2a6083a9a690ccc1c2d6feaad368</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>VM Node 07</sys_name>
+        <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
+        <sys_update_name>sys_metadata_link_24ac2a6083a9a690ccc1c2d6feaad368</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 12:15:23</sys_updated_on>
+        <tablename>cmdb_ci_vm_instance</tablename>
+    </sys_metadata_link>
+</record_update>

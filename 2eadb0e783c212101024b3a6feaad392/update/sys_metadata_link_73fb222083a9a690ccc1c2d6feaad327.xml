@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>eb1475bf83012210ccc1c2d6feaad3ac</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="cmdb_ci_appl">
+    <cmdb_ci_appl action="INSERT_OR_UPDATE">
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status>Not Yet Reviewed</attestation_status>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category>Resource</category>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <cl_port/>
+        <classifier/>
+        <comments/>
+        <company/>
+        <config_directory/>
+        <config_file/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <department/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <edition/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_directory/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <is_clustered>false</is_clustered>
+        <justification/>
+        <last_discovered/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <name>CRM Application</name>
+        <operational_status>1</operational_status>
+        <order_date/>
+        <owned_by/>
+        <pid/>
+        <po_number/>
+        <product_instance_id/>
+        <purchase_date/>
+        <rp_command_hash/>
+        <rp_key_parameters_hash/>
+        <running_process/>
+        <running_process_command/>
+        <running_process_key_parameters/>
+        <schedule/>
+        <serial_number/>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <start_date/>
+        <subcategory>Application</subcategory>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>cmdb_ci_appl</sys_class_name>
+        <sys_class_path>/!!/!(</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-28 13:57:30</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>eb1475bf83012210ccc1c2d6feaad3ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-28 13:57:30</sys_updated_on>
+        <tcp_port/>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <vendor/>
+        <version/>
+        <warranty_expiration/>
+    </cmdb_ci_appl>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 12:12:36</sys_created_on>
+        <sys_id>73fb222083a9a690ccc1c2d6feaad327</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CRM Application</sys_name>
+        <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
+        <sys_update_name>sys_metadata_link_73fb222083a9a690ccc1c2d6feaad327</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 12:12:36</sys_updated_on>
+        <tablename>cmdb_ci_appl</tablename>
+    </sys_metadata_link>
+</record_update>

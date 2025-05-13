@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>2c60cae48325a690ccc1c2d6feaad3e1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="service_offering">
+    <service_offering action="INSERT_OR_UPDATE">
+        <aliases/>
+        <asset/>
+        <asset_tag/>
+        <assigned/>
+        <assigned_to/>
+        <assignment_group/>
+        <attestation_score/>
+        <attestation_status>Not Yet Reviewed</attestation_status>
+        <attested>false</attested>
+        <attested_by/>
+        <attested_date/>
+        <attributes/>
+        <billing>monthly</billing>
+        <busines_criticality>2 - somewhat critical</busines_criticality>
+        <business_contact/>
+        <business_need/>
+        <business_relation_manager/>
+        <business_unit/>
+        <can_print>false</can_print>
+        <category/>
+        <change_control/>
+        <checked_in/>
+        <checked_out/>
+        <checkout/>
+        <comments/>
+        <company/>
+        <compatibility_dependencies/>
+        <consumer_type>internal</consumer_type>
+        <contract/>
+        <correlation_id/>
+        <cost/>
+        <cost_cc>USD</cost_cc>
+        <cost_center/>
+        <delivery_date/>
+        <delivery_manager/>
+        <department/>
+        <description/>
+        <discovery_source/>
+        <dns_domain/>
+        <due/>
+        <due_in/>
+        <duplicate_of/>
+        <end_date/>
+        <environment/>
+        <fault_count>0</fault_count>
+        <first_discovered/>
+        <fqdn/>
+        <gl_account/>
+        <install_date/>
+        <install_status>1</install_status>
+        <invoice_number/>
+        <ip_address/>
+        <justification/>
+        <last_discovered/>
+        <last_review_date/>
+        <lease_id/>
+        <life_cycle_stage/>
+        <life_cycle_stage_status/>
+        <location/>
+        <mac_address/>
+        <maintenance_schedule/>
+        <managed_by/>
+        <managed_by_group/>
+        <manufacturer/>
+        <model_id/>
+        <model_number/>
+        <monitor>false</monitor>
+        <monitoring_requirements/>
+        <name>CRM Pro Plan</name>
+        <number>BSN0001002</number>
+        <operational_status>1</operational_status>
+        <order/>
+        <order_date/>
+        <owned_by/>
+        <parent display_value="CRM Tech Service">42c362a88329a690ccc1c2d6feaad3a5</parent>
+        <po_number/>
+        <portfolio_status>pipeline</portfolio_status>
+        <prerequisites/>
+        <price_model>per_unit</price_model>
+        <price_unit/>
+        <product_instance_id/>
+        <published_ref/>
+        <purchase_date/>
+        <schedule/>
+        <serial_number/>
+        <service_classification>Business Service</service_classification>
+        <service_level_requirement/>
+        <service_owner_delegate/>
+        <service_status>requirements</service_status>
+        <short_description/>
+        <skip_sync>false</skip_sync>
+        <sla/>
+        <spm_service_portfolio/>
+        <spm_taxonomy_node/>
+        <stakeholders/>
+        <start_date/>
+        <state/>
+        <subcategory/>
+        <support_group/>
+        <supported_by/>
+        <sys_class_name>service_offering</sys_class_name>
+        <sys_class_path>/!!/!7/!$</sys_class_path>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 09:03:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2c60cae48325a690ccc1c2d6feaad3e1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 11:39:55</sys_updated_on>
+        <technical_contact/>
+        <unit_description/>
+        <unverified>false</unverified>
+        <used_for>Production</used_for>
+        <user_group/>
+        <vendor/>
+        <version/>
+        <warranty_expiration/>
+    </service_offering>
+    <sys_translated_text action="delete_multiple" query="documentkey=2c60cae48325a690ccc1c2d6feaad3e1"/>
+    <fx_price action="delete_multiple" query="id=2c60cae48325a690ccc1c2d6feaad3e1"/>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-05-13 12:13:02</sys_created_on>
+        <sys_id>5e1ceeec8369a690ccc1c2d6feaad3cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CRM Pro Plan</sys_name>
+        <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
+        <sys_update_name>sys_metadata_link_5e1ceeec8369a690ccc1c2d6feaad3cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-05-13 12:13:02</sys_updated_on>
+        <tablename>service_offering</tablename>
+    </sys_metadata_link>
+</record_update>
