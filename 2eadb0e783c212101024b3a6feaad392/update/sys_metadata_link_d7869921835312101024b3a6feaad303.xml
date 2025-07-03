@@ -13,7 +13,7 @@
         <approval_history/>
         <approval_set/>
         <assigned_to/>
-        <assignment_group/>
+        <assignment_group display_value="CMDB onboarding" name="CMDB onboarding">51561a0493e2a2102c5c3a8efaba10d0</assignment_group>
         <backlog_type>product</backlog_type>
         <blocked>false</blocked>
         <blocked_reason/>
@@ -41,7 +41,7 @@
         <dependency/>
         <description/>
         <due_date/>
-        <duration>1970-01-02 00:00:00</duration>
+        <duration>1970-01-04 00:00:00</duration>
         <effort/>
         <end>2025-01-24</end>
         <end_date>2025-01-24 12:10:18</end_date>
@@ -51,7 +51,7 @@
         <escalation>0</escalation>
         <expected_start/>
         <follow_up/>
-        <global_rank>4000966666</global_rank>
+        <global_rank>4000886666</global_rank>
         <group_list/>
         <group_rank/>
         <has_conflict>false</has_conflict>
@@ -73,7 +73,7 @@
         <orig_sys_id/>
         <orig_top_task_id/>
         <override_status>false</override_status>
-        <parent/>
+        <parent display_value="SPNT0010002">54e7d28493e2a2102c5c3a8efaba1086</parent>
         <parent_feature/>
         <percent_complete>0</percent_complete>
         <prereq/>
@@ -83,7 +83,7 @@
         <product_rank/>
         <product_rel_index>900000</product_rel_index>
         <rank/>
-        <reassignment_count>0</reassignment_count>
+        <reassignment_count>1</reassignment_count>
         <rejection_goto/>
         <relation_applied/>
         <release/>
@@ -97,18 +97,18 @@
         <schedule_start_date>2025-01-24 12:10:18</schedule_start_date>
         <service_offering/>
         <shadow>false</shadow>
-        <short_description>Load file usint transform maps without IRE</short_description>
+        <short_description>Load file using transform maps without IRE</short_description>
         <sla_due/>
         <software_model/>
         <split_from/>
-        <sprint/>
-        <sprint_index/>
+        <sprint display_value="Sprint 2">54e7d28493e2a2102c5c3a8efaba1086</sprint>
+        <sprint_index>400000</sprint_index>
         <start>2025-01-24</start>
         <start_date>2025-01-24 12:10:18</start_date>
         <start_date_derived_from/>
         <state>-6</state>
         <status>green</status>
-        <story_points/>
+        <story_points>3</story_points>
         <sub_tree_root/>
         <sys_class_name>rm_story</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -116,10 +116,10 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a726dded831312101024b3a6feaad3b9</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-24 12:10:18</sys_updated_on>
-        <task>Load file usint transform maps without IRE​STRY0010042</task>
+        <sys_updated_on>2025-06-30 14:39:32</sys_updated_on>
+        <task>Load file using transform maps without IRE​STRY0010042</task>
         <task_effective_number>STRY0010042</task_effective_number>
         <theme/>
         <time_constraint>asap</time_constraint>
@@ -151,14 +151,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:55</sys_created_on>
         <sys_id>d7869921835312101024b3a6feaad303</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>Load file usint transform maps without IRE</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Load file using transform maps without IRE</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_d7869921835312101024b3a6feaad303</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 11:56:39</sys_updated_on>
+        <sys_updated_on>2025-07-03 10:08:33</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>

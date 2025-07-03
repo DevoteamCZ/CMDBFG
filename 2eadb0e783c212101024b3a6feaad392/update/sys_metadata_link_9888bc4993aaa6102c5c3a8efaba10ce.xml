@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
     <sys_metadata_link action="INSERT_OR_UPDATE">
         <directory>update</directory>
-        <documentkey>10361121835312101024b3a6feaad345</documentkey>
-        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="rm_story">
-    <rm_story action="INSERT_OR_UPDATE">
-        <acceptance_criteria/>
+        <documentkey>4b761e0493e2a2102c5c3a8efaba1087</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="rm_sprint">
+    <rm_sprint action="INSERT_OR_UPDATE">
         <active>true</active>
         <activity_due/>
+        <actual_points/>
         <additional_assignee_list/>
         <allow_dates_outside_schedule>false</allow_dates_outside_schedule>
         <approval>not requested</approval>
@@ -14,20 +14,17 @@
         <approval_set/>
         <assigned_to/>
         <assignment_group display_value="CMDB onboarding" name="CMDB onboarding">51561a0493e2a2102c5c3a8efaba10d0</assignment_group>
-        <backlog_type>product</backlog_type>
-        <blocked>false</blocked>
-        <blocked_reason/>
         <business_duration/>
         <business_service/>
         <calculation_type>automatic</calculation_type>
         <calendar_duration/>
-        <classification>Feature</classification>
         <close_notes/>
         <closed_at/>
         <closed_by/>
         <cmdb_ci/>
         <comments/>
         <comments_and_work_notes/>
+        <committed_points>0</committed_points>
         <company/>
         <constraint_date/>
         <contact_type/>
@@ -35,7 +32,6 @@
         <correlation_display/>
         <correlation_id/>
         <critical_path>false</critical_path>
-        <defect/>
         <delivery_plan/>
         <delivery_task/>
         <dependency/>
@@ -43,21 +39,16 @@
         <due_date/>
         <duration>1970-01-02 00:00:00</duration>
         <effort/>
-        <end>2025-01-24</end>
-        <end_date>2025-01-24 12:10:21</end_date>
+        <end>2025-06-30</end>
+        <end_date>2025-09-11 14:24:51</end_date>
         <end_date_derived_from/>
-        <enhancement/>
-        <epic display_value="CMDB Blueprint quickstart">2d81d169831312101024b3a6feaad351</epic>
         <escalation>0</escalation>
         <expected_start/>
         <follow_up/>
-        <global_rank>4003266666</global_rank>
         <group_list/>
-        <group_rank/>
         <has_conflict>false</has_conflict>
         <html_description/>
         <impact>3</impact>
-        <is_enabler>false</is_enabler>
         <key_milestone>false</key_milestone>
         <knowledge>false</knowledge>
         <level/>
@@ -66,67 +57,59 @@
         <milestone>false</milestone>
         <model_id/>
         <mpp_task_id/>
-        <number>STRY0010065</number>
-        <opened_at>2025-01-24 12:10:21</opened_at>
+        <number>SPNT0010001</number>
+        <opened_at>2025-06-30 14:24:26</opened_at>
         <opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
         <order/>
         <orig_sys_id/>
         <orig_top_task_id/>
         <override_status>false</override_status>
         <parent/>
-        <parent_feature/>
         <percent_complete>0</percent_complete>
-        <prereq/>
-        <primary_goal/>
+        <points/>
         <priority>4</priority>
-        <product display_value="CMDB Onboarding Program">36fdf8e783c212101024b3a6feaad33b</product>
-        <product_rank/>
-        <product_rel_index>3200000</product_rel_index>
-        <rank/>
-        <reassignment_count>1</reassignment_count>
+        <reassignment_count>0</reassignment_count>
         <rejection_goto/>
         <relation_applied/>
         <release/>
-        <release_index/>
+        <release_phase/>
+        <release_team/>
+        <release_type/>
         <remaining_duration/>
         <remaining_effort/>
-        <rollup>false</rollup>
+        <rollup>true</rollup>
         <route_reason/>
         <run_calc_brs>true</run_calc_brs>
-        <schedule_end_date>2025-01-24 12:10:21</schedule_end_date>
-        <schedule_start_date>2025-01-24 12:10:21</schedule_start_date>
+        <schedule_end_date>2025-09-11 14:24:51</schedule_end_date>
+        <schedule_start_date>2025-06-29 14:24:46</schedule_start_date>
         <service_offering/>
         <shadow>false</shadow>
-        <short_description>CMDB healthcheck</short_description>
+        <short_description>Sprint 1</short_description>
         <sla_due/>
         <software_model/>
-        <split_from/>
-        <sprint/>
-        <sprint_index/>
-        <start>2025-01-24</start>
-        <start_date>2025-01-24 12:10:21</start_date>
+        <start>2025-06-30</start>
+        <start_date>2025-06-29 14:24:46</start_date>
         <start_date_derived_from/>
         <state>-6</state>
         <status>green</status>
-        <story_points/>
+        <story_points>10</story_points>
         <sub_tree_root/>
-        <sys_class_name>rm_story</sys_class_name>
+        <sys_class_name>rm_sprint</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-01-24 12:10:21</sys_created_on>
+        <sys_created_on>2025-06-30 14:25:33</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>10361121835312101024b3a6feaad345</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_id>4b761e0493e2a2102c5c3a8efaba1087</sys_id>
+        <sys_mod_count>24</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-30 14:29:38</sys_updated_on>
-        <task>CMDB healthcheck​STRY0010065</task>
-        <task_effective_number>STRY0010065</task_effective_number>
-        <theme/>
+        <sys_updated_on>2025-06-30 14:36:40</sys_updated_on>
+        <task>Sprint 1​SPNT0010001</task>
+        <task_effective_number>SPNT0010001</task_effective_number>
+        <team_points>20</team_points>
         <time_constraint>asap</time_constraint>
         <time_worked/>
         <time_zone/>
-        <top_task display_value="STRY0010065">10361121835312101024b3a6feaad345</top_task>
-        <type/>
+        <top_task display_value="SPNT0010001">4b761e0493e2a2102c5c3a8efaba1087</top_task>
         <universal_request/>
         <upon_approval>proceed</upon_approval>
         <upon_reject>cancel</upon_reject>
@@ -134,6 +117,7 @@
         <user_input/>
         <variables/>
         <version/>
+        <visited_state>,-6</visited_state>
         <watch_list/>
         <wbs/>
         <wbs_order/>
@@ -144,21 +128,21 @@
         <work_notes/>
         <work_notes_list/>
         <work_start/>
-    </rm_story>
+    </rm_sprint>
 </record_update>
 ]]></payload>
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2025-01-24 12:11:54</sys_created_on>
-        <sys_id>8b865921835312101024b3a6feaad3ce</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>CMDB healthcheck</sys_name>
+        <sys_created_on>2025-07-03 10:07:45</sys_created_on>
+        <sys_id>9888bc4993aaa6102c5c3a8efaba10ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sprint 1</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
-        <sys_update_name>sys_metadata_link_8b865921835312101024b3a6feaad3ce</sys_update_name>
+        <sys_update_name>sys_metadata_link_9888bc4993aaa6102c5c3a8efaba10ce</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-03 10:08:33</sys_updated_on>
-        <tablename>rm_story</tablename>
+        <sys_updated_on>2025-07-03 10:07:45</sys_updated_on>
+        <tablename>rm_sprint</tablename>
     </sys_metadata_link>
 </record_update>

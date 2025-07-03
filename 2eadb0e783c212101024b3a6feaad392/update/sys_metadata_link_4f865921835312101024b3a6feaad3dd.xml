@@ -13,7 +13,7 @@
         <approval_history/>
         <approval_set/>
         <assigned_to/>
-        <assignment_group/>
+        <assignment_group display_value="CMDB onboarding" name="CMDB onboarding">51561a0493e2a2102c5c3a8efaba10d0</assignment_group>
         <backlog_type>product</backlog_type>
         <blocked>false</blocked>
         <blocked_reason/>
@@ -41,7 +41,7 @@
         <dependency/>
         <description/>
         <due_date/>
-        <duration>1970-01-02 00:00:00</duration>
+        <duration>1970-01-05 00:00:00</duration>
         <effort/>
         <end>2025-01-24</end>
         <end_date>2025-01-24 12:10:19</end_date>
@@ -51,7 +51,7 @@
         <escalation>0</escalation>
         <expected_start/>
         <follow_up/>
-        <global_rank>4001466666</global_rank>
+        <global_rank>4001376666</global_rank>
         <group_list/>
         <group_rank/>
         <has_conflict>false</has_conflict>
@@ -73,7 +73,7 @@
         <orig_sys_id/>
         <orig_top_task_id/>
         <override_status>false</override_status>
-        <parent/>
+        <parent display_value="SPNT0010003">d5189e8493e2a2102c5c3a8efaba103f</parent>
         <parent_feature/>
         <percent_complete>0</percent_complete>
         <prereq/>
@@ -83,7 +83,7 @@
         <product_rank/>
         <product_rel_index>1400000</product_rel_index>
         <rank/>
-        <reassignment_count>0</reassignment_count>
+        <reassignment_count>1</reassignment_count>
         <rejection_goto/>
         <relation_applied/>
         <release/>
@@ -101,14 +101,14 @@
         <sla_due/>
         <software_model/>
         <split_from/>
-        <sprint/>
-        <sprint_index/>
+        <sprint display_value="Sprint 3">d5189e8493e2a2102c5c3a8efaba103f</sprint>
+        <sprint_index>200000</sprint_index>
         <start>2025-01-24</start>
         <start_date>2025-01-24 12:10:19</start_date>
         <start_date_derived_from/>
         <state>-6</state>
         <status>green</status>
-        <story_points/>
+        <story_points>4</story_points>
         <sub_tree_root/>
         <sys_class_name>rm_story</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -116,9 +116,9 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>7326dded831312101024b3a6feaad3d5</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-24 12:10:19</sys_updated_on>
+        <sys_updated_on>2025-06-30 14:42:05</sys_updated_on>
         <task>Set up ServiceNow Discovery​STRY0010047</task>
         <task_effective_number>STRY0010047</task_effective_number>
         <theme/>
@@ -151,14 +151,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:54</sys_created_on>
         <sys_id>4f865921835312101024b3a6feaad3dd</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Set up ServiceNow Discovery</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_4f865921835312101024b3a6feaad3dd</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 11:56:38</sys_updated_on>
+        <sys_updated_on>2025-07-03 10:08:33</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>

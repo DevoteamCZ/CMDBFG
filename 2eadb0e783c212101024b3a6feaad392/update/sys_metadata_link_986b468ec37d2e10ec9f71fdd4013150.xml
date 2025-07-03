@@ -4,7 +4,7 @@
         <documentkey>fc23c282c37d2e10ec9f71fdd40131f4</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="rm_story"&gt;
     &lt;rm_story action="INSERT_OR_UPDATE"&gt;
-        &lt;acceptance_criteria&gt;&lt;![CDATA[&lt;p&gt;&lt;span&gt;New Business Rule is created on &amp;#34;Application&amp;#34; class&lt;br /&gt;When &amp;#34;Asset tag&amp;#34; is changed on &amp;#34;Oracle Instance&amp;#34; class, the &amp;#34;Description&amp;#34; is set to the string &amp;#34;Asset tag is: value of Asset tag&amp;#34;&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/acceptance_criteria&gt;
+        &lt;acceptance_criteria&gt;&lt;![CDATA[&lt;p&gt;New Business Rule is created on &amp;#34;Application&amp;#34; class&lt;br /&gt;When &amp;#34;Asset tag&amp;#34; is changed on &amp;#34;Oracle Instance&amp;#34; class, the &amp;#34;Description&amp;#34; is set to the string &amp;#34;Asset tag is: value of Asset tag&amp;#34;&lt;/p&gt;]]&gt;&lt;/acceptance_criteria&gt;
         &lt;active&gt;true&lt;/active&gt;
         &lt;activity_due/&gt;
         &lt;additional_assignee_list/&gt;
@@ -13,7 +13,7 @@
         &lt;approval_history/&gt;
         &lt;approval_set/&gt;
         &lt;assigned_to/&gt;
-        &lt;assignment_group/&gt;
+        &lt;assignment_group display_value="CMDB onboarding" name="CMDB onboarding"&gt;51561a0493e2a2102c5c3a8efaba10d0&lt;/assignment_group&gt;
         &lt;backlog_type&gt;product&lt;/backlog_type&gt;
         &lt;blocked&gt;false&lt;/blocked&gt;
         &lt;blocked_reason/&gt;
@@ -43,7 +43,7 @@
 Create Client script on Windows Server&amp;#13;
 Create UI Action on Extra Windows Server&lt;/description&gt;
         &lt;due_date/&gt;
-        &lt;duration&gt;1970-01-02 00:00:00&lt;/duration&gt;
+        &lt;duration&gt;1970-01-03 00:00:00&lt;/duration&gt;
         &lt;effort/&gt;
         &lt;end&gt;2025-05-30&lt;/end&gt;
         &lt;end_date&gt;2025-05-30 11:20:40&lt;/end_date&gt;
@@ -75,7 +75,7 @@ Create UI Action on Extra Windows Server&lt;/description&gt;
         &lt;orig_sys_id/&gt;
         &lt;orig_top_task_id/&gt;
         &lt;override_status&gt;false&lt;/override_status&gt;
-        &lt;parent/&gt;
+        &lt;parent display_value="SPNT0010001"&gt;4b761e0493e2a2102c5c3a8efaba1087&lt;/parent&gt;
         &lt;parent_feature/&gt;
         &lt;percent_complete&gt;0&lt;/percent_complete&gt;
         &lt;prereq/&gt;
@@ -103,14 +103,14 @@ Create UI Action on Extra Windows Server&lt;/description&gt;
         &lt;sla_due/&gt;
         &lt;software_model/&gt;
         &lt;split_from/&gt;
-        &lt;sprint/&gt;
-        &lt;sprint_index/&gt;
+        &lt;sprint display_value="Sprint 1"&gt;4b761e0493e2a2102c5c3a8efaba1087&lt;/sprint&gt;
+        &lt;sprint_index&gt;200000&lt;/sprint_index&gt;
         &lt;start&gt;2025-05-30&lt;/start&gt;
         &lt;start_date&gt;2025-05-30 11:20:40&lt;/start_date&gt;
         &lt;start_date_derived_from/&gt;
         &lt;state&gt;-6&lt;/state&gt;
         &lt;status&gt;green&lt;/status&gt;
-        &lt;story_points/&gt;
+        &lt;story_points&gt;2&lt;/story_points&gt;
         &lt;sub_tree_root/&gt;
         &lt;sys_class_name&gt;rm_story&lt;/sys_class_name&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
@@ -118,9 +118,9 @@ Create UI Action on Extra Windows Server&lt;/description&gt;
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;fc23c282c37d2e10ec9f71fdd40131f4&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-05-30 11:21:10&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2025-06-30 14:34:41&lt;/sys_updated_on&gt;
         &lt;task&gt;Inheritance of the logic​STRY0010001&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010001&lt;/task_effective_number&gt;
         &lt;theme/&gt;
@@ -153,14 +153,14 @@ Create UI Action on Extra Windows Server&lt;/description&gt;
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-05-30 11:56:40</sys_created_on>
         <sys_id>986b468ec37d2e10ec9f71fdd4013150</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Inheritance of the logic</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_986b468ec37d2e10ec9f71fdd4013150</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 11:56:40</sys_updated_on>
+        <sys_updated_on>2025-07-03 10:08:34</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>

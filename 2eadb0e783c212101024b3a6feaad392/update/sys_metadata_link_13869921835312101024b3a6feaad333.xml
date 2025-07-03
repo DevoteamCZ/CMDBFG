@@ -4,7 +4,7 @@
         <documentkey>db261d29831312101024b3a6feaad38c</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="rm_story"&gt;
     &lt;rm_story action="INSERT_OR_UPDATE"&gt;
-        &lt;acceptance_criteria&gt;&lt;![CDATA[&lt;p&gt;&lt;span&gt;New class &amp;#34;Extra Windows Server&amp;#34; exists.&lt;br /&gt;New field &amp;#34;Extra Description&amp;#34; exists on the new class.&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/acceptance_criteria&gt;
+        &lt;acceptance_criteria&gt;&lt;![CDATA[&lt;p&gt;New class &amp;#34;Extra Windows Server&amp;#34; exists.&lt;br /&gt;New field &amp;#34;Extra Description&amp;#34; exists on the new class.&lt;/p&gt;]]&gt;&lt;/acceptance_criteria&gt;
         &lt;active&gt;true&lt;/active&gt;
         &lt;activity_due/&gt;
         &lt;additional_assignee_list/&gt;
@@ -13,7 +13,7 @@
         &lt;approval_history/&gt;
         &lt;approval_set/&gt;
         &lt;assigned_to/&gt;
-        &lt;assignment_group/&gt;
+        &lt;assignment_group display_value="CMDB onboarding" name="CMDB onboarding"&gt;51561a0493e2a2102c5c3a8efaba10d0&lt;/assignment_group&gt;
         &lt;backlog_type&gt;product&lt;/backlog_type&gt;
         &lt;blocked&gt;false&lt;/blocked&gt;
         &lt;blocked_reason/&gt;
@@ -74,7 +74,7 @@ This new class will contain one new field called ""Extra Description"" which can
         &lt;orig_sys_id/&gt;
         &lt;orig_top_task_id/&gt;
         &lt;override_status&gt;false&lt;/override_status&gt;
-        &lt;parent/&gt;
+        &lt;parent display_value="SPNT0010001"&gt;4b761e0493e2a2102c5c3a8efaba1087&lt;/parent&gt;
         &lt;parent_feature/&gt;
         &lt;percent_complete&gt;0&lt;/percent_complete&gt;
         &lt;prereq/&gt;
@@ -102,14 +102,14 @@ This new class will contain one new field called ""Extra Description"" which can
         &lt;sla_due/&gt;
         &lt;software_model/&gt;
         &lt;split_from/&gt;
-        &lt;sprint/&gt;
-        &lt;sprint_index/&gt;
+        &lt;sprint display_value="Sprint 1"&gt;4b761e0493e2a2102c5c3a8efaba1087&lt;/sprint&gt;
+        &lt;sprint_index&gt;100000&lt;/sprint_index&gt;
         &lt;start&gt;2025-01-24&lt;/start&gt;
         &lt;start_date&gt;2025-01-24 12:10:17&lt;/start_date&gt;
         &lt;start_date_derived_from/&gt;
         &lt;state&gt;-6&lt;/state&gt;
         &lt;status&gt;green&lt;/status&gt;
-        &lt;story_points/&gt;
+        &lt;story_points&gt;1&lt;/story_points&gt;
         &lt;sub_tree_root/&gt;
         &lt;sys_class_name&gt;rm_story&lt;/sys_class_name&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
@@ -117,9 +117,9 @@ This new class will contain one new field called ""Extra Description"" which can
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;db261d29831312101024b3a6feaad38c&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-05-30 11:21:10&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2025-06-30 14:34:24&lt;/sys_updated_on&gt;
         &lt;task&gt;Create CI Class "Extra Windows server"​STRY0010034&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010034&lt;/task_effective_number&gt;
         &lt;theme/&gt;
@@ -152,14 +152,14 @@ This new class will contain one new field called ""Extra Description"" which can
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:56</sys_created_on>
         <sys_id>13869921835312101024b3a6feaad333</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Create CI Class "Extra Windows server"</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_13869921835312101024b3a6feaad333</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 11:56:40</sys_updated_on>
+        <sys_updated_on>2025-07-03 10:08:34</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>

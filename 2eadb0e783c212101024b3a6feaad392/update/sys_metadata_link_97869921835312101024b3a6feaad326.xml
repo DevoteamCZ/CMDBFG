@@ -4,7 +4,7 @@
         <documentkey>bb26dded831312101024b3a6feaad3e5</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="rm_story"&gt;
     &lt;rm_story action="INSERT_OR_UPDATE"&gt;
-        &lt;acceptance_criteria&gt;&lt;![CDATA[&lt;p&gt;&lt;span&gt;Impact analysis for “CRM Application” is run and results are documented.&lt;br /&gt;Upstream and downstream impacts are identified and explained.&lt;br /&gt;Potential risks and mitigation strategies are outlined.&lt;/span&gt;&lt;/p&gt;]]&gt;&lt;/acceptance_criteria&gt;
+        &lt;acceptance_criteria&gt;&lt;![CDATA[&lt;p&gt;Impact analysis for “CRM Application” is run and results are documented.&lt;br /&gt;Upstream and downstream impacts are identified and explained.&lt;br /&gt;Potential risks and mitigation strategies are outlined.&lt;/p&gt;]]&gt;&lt;/acceptance_criteria&gt;
         &lt;active&gt;true&lt;/active&gt;
         &lt;activity_due/&gt;
         &lt;additional_assignee_list/&gt;
@@ -13,7 +13,7 @@
         &lt;approval_history/&gt;
         &lt;approval_set/&gt;
         &lt;assigned_to/&gt;
-        &lt;assignment_group/&gt;
+        &lt;assignment_group display_value="CMDB onboarding" name="CMDB onboarding"&gt;51561a0493e2a2102c5c3a8efaba10d0&lt;/assignment_group&gt;
         &lt;backlog_type&gt;product&lt;/backlog_type&gt;
         &lt;blocked&gt;false&lt;/blocked&gt;
         &lt;blocked_reason/&gt;
@@ -41,7 +41,7 @@
         &lt;dependency/&gt;
         &lt;description&gt;When processing change requests, understanding how CIs are impacted is critical. In this story, you’ll perform an impact analysis for a change request related to the “CRM Application” application. By analyzing dependencies, you’ll identify the potential ripple effects of the change and document the impacted CIs.&lt;/description&gt;
         &lt;due_date/&gt;
-        &lt;duration&gt;1970-01-02 00:00:00&lt;/duration&gt;
+        &lt;duration&gt;1970-01-03 00:00:00&lt;/duration&gt;
         &lt;effort/&gt;
         &lt;end&gt;2025-01-24&lt;/end&gt;
         &lt;end_date&gt;2025-01-24 12:10:19&lt;/end_date&gt;
@@ -51,7 +51,7 @@
         &lt;escalation&gt;0&lt;/escalation&gt;
         &lt;expected_start/&gt;
         &lt;follow_up/&gt;
-        &lt;global_rank&gt;4001766666&lt;/global_rank&gt;
+        &lt;global_rank&gt;4001676666&lt;/global_rank&gt;
         &lt;group_list/&gt;
         &lt;group_rank/&gt;
         &lt;has_conflict&gt;false&lt;/has_conflict&gt;
@@ -73,7 +73,7 @@
         &lt;orig_sys_id/&gt;
         &lt;orig_top_task_id/&gt;
         &lt;override_status&gt;false&lt;/override_status&gt;
-        &lt;parent/&gt;
+        &lt;parent display_value="SPNT0010003"&gt;d5189e8493e2a2102c5c3a8efaba103f&lt;/parent&gt;
         &lt;parent_feature/&gt;
         &lt;percent_complete&gt;0&lt;/percent_complete&gt;
         &lt;prereq/&gt;
@@ -83,7 +83,7 @@
         &lt;product_rank/&gt;
         &lt;product_rel_index&gt;1700000&lt;/product_rel_index&gt;
         &lt;rank/&gt;
-        &lt;reassignment_count&gt;0&lt;/reassignment_count&gt;
+        &lt;reassignment_count&gt;1&lt;/reassignment_count&gt;
         &lt;rejection_goto/&gt;
         &lt;relation_applied/&gt;
         &lt;release/&gt;
@@ -101,14 +101,14 @@
         &lt;sla_due/&gt;
         &lt;software_model/&gt;
         &lt;split_from/&gt;
-        &lt;sprint/&gt;
-        &lt;sprint_index/&gt;
+        &lt;sprint display_value="Sprint 3"&gt;d5189e8493e2a2102c5c3a8efaba103f&lt;/sprint&gt;
+        &lt;sprint_index&gt;500000&lt;/sprint_index&gt;
         &lt;start&gt;2025-01-24&lt;/start&gt;
         &lt;start_date&gt;2025-01-24 12:10:19&lt;/start_date&gt;
         &lt;start_date_derived_from/&gt;
         &lt;state&gt;-6&lt;/state&gt;
         &lt;status&gt;green&lt;/status&gt;
-        &lt;story_points/&gt;
+        &lt;story_points&gt;2&lt;/story_points&gt;
         &lt;sub_tree_root/&gt;
         &lt;sys_class_name&gt;rm_story&lt;/sys_class_name&gt;
         &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
@@ -116,9 +116,9 @@
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;bb26dded831312101024b3a6feaad3e5&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-05-30 11:29:20&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2025-06-30 14:43:56&lt;/sys_updated_on&gt;
         &lt;task&gt;Run an impact analysis for a change request and interpret its effect on CIs.​STRY0010050&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010050&lt;/task_effective_number&gt;
         &lt;theme/&gt;
@@ -151,14 +151,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:55</sys_created_on>
         <sys_id>97869921835312101024b3a6feaad326</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Run an impact analysis for a change request and interpret its effect on CIs.</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_97869921835312101024b3a6feaad326</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-05-30 11:56:39</sys_updated_on>
+        <sys_updated_on>2025-07-03 10:08:34</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>
