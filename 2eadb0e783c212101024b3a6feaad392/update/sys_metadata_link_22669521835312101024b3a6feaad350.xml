@@ -57,7 +57,7 @@
         <location/>
         <made_sla>true</made_sla>
         <milestone>false</milestone>
-        <missing_estimates>3</missing_estimates>
+        <missing_estimates>0</missing_estimates>
         <model_id display_value="CMDB Onboarding Program">36fdf8e783c212101024b3a6feaad33b</model_id>
         <mpp_task_id/>
         <number>EPIC0010006</number>
@@ -89,7 +89,6 @@
         <service_offering/>
         <shadow>false</shadow>
         <short_description>Operations</short_description>
-        <skills/>
         <sla_due/>
         <software_model/>
         <start>2025-01-24</start>
@@ -104,9 +103,9 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>9d519169831312101024b3a6feaad327</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-24 12:10:19</sys_updated_on>
+        <sys_updated_on>2025-06-30 14:47:30</sys_updated_on>
         <task>Operations​EPIC0010006</task>
         <task_effective_number>EPIC0010006</task_effective_number>
         <theme/>
@@ -114,7 +113,7 @@
         <time_worked/>
         <time_zone/>
         <top_task display_value="EPIC0010006">9d519169831312101024b3a6feaad327</top_task>
-        <total_estimate>0</total_estimate>
+        <total_estimate>7</total_estimate>
         <total_story_count>3</total_story_count>
         <universal_request/>
         <upon_approval>proceed</upon_approval>
@@ -133,8 +132,6 @@
         <work_notes/>
         <work_notes_list/>
         <work_start/>
-        <x_devo2_dip_dip_external_id/>
-        <x_devo2_dip_integrated_attachments/>
     </rm_epic>
 </record_update>
 ]]></payload>
@@ -142,14 +139,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:20</sys_created_on>
         <sys_id>22669521835312101024b3a6feaad350</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Operations</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_22669521835312101024b3a6feaad350</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-01-24 12:11:20</sys_updated_on>
+        <sys_updated_on>2025-07-04 12:21:30</sys_updated_on>
         <tablename>rm_epic</tablename>
     </sys_metadata_link>
 </record_update>
