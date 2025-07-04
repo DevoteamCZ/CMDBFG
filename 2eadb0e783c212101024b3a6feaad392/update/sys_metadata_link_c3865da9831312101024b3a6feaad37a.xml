@@ -45,7 +45,12 @@ Define Technical Service Offerings to differentiate support levels:&amp;#13;
 "SAP Prod Server Support" – high availability, 24/7 support.&amp;#13;
 "SAP NonProd Server Support" – lower priority, business hours support.&amp;#13;
 Create a Dynamic CI Group to automatically group all Windows servers hosting SAP instances.&amp;#13;
-Ensure proper alignment using the correct CSDM relationships to establish structured dependencies between the Business Application, Technical Service, and Infrastructure CIs.&lt;/description&gt;
+Ensure proper alignment using the correct CSDM relationships to establish structured dependencies between the Business Application, Technical Service, and Infrastructure CIs.&amp;#13;
+&amp;#13;
+KB:&amp;#13;
+https://docs.google.com/document/d/1mgHxmZX2n-YHGwFNxYK7fDy_WhBcVE_cScQWmpzaKp0/edit?usp=sharing&amp;#13;
+&amp;#13;
+https://docs.google.com/document/d/1eoENnYxQo6aN6y1onwgd7jkjAjV0do-tElzUebUdMcw/edit?usp=sharing&lt;/description&gt;
         &lt;due_date/&gt;
         &lt;duration&gt;1970-01-05 00:00:00&lt;/duration&gt;
         &lt;effort/&gt;
@@ -122,9 +127,9 @@ Ensure proper alignment using the correct CSDM relationships to establish struct
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;00361121835312101024b3a6feaad328&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-06-30 14:59:57&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2025-07-04 12:50:42&lt;/sys_updated_on&gt;
         &lt;task&gt;Create the technical service for Server Support with its prod and nonprod technical service offerings. Relate them to windows servers via dynamic CI groups acco​STRY0010062&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010062&lt;/task_effective_number&gt;
         &lt;theme/&gt;
@@ -157,14 +162,14 @@ Ensure proper alignment using the correct CSDM relationships to establish struct
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:54</sys_created_on>
         <sys_id>c3865da9831312101024b3a6feaad37a</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Create the technical service for Server Support with its prod and nonprod technical service offerings. Relate them to windows servers via dynamic CI groups acco</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_c3865da9831312101024b3a6feaad37a</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-03 10:08:32</sys_updated_on>
+        <sys_updated_on>2025-07-04 13:16:55</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>

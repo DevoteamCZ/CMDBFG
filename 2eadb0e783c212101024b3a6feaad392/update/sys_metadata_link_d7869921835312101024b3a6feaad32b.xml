@@ -39,7 +39,10 @@
         &lt;delivery_plan/&gt;
         &lt;delivery_task/&gt;
         &lt;dependency/&gt;
-        &lt;description&gt;To represent an operational deployment of SAP production instance, create it's representation as a record in Application Service table. Add the Business Application as a Required relationship and then use the csdm_view of cmdb_ci_service_auto table to create an Application Service with relationship to already created SAP Business Application.&lt;/description&gt;
+        &lt;description&gt;To represent an operational deployment of SAP production instance, create it's representation as a record in Application Service table. Add the Business Application as a Required relationship and then use the csdm_view of cmdb_ci_service_auto table to create an Application Service with relationship to already created SAP Business Application.&amp;#13;
+&amp;#13;
+KB:&amp;#13;
+https://docs.google.com/document/d/1tGJWH02eySRmMkX3HvpECXoL7ht0ApCGTNF8izHTcfM/edit?usp=sharing&lt;/description&gt;
         &lt;due_date/&gt;
         &lt;duration&gt;1970-01-04 00:00:00&lt;/duration&gt;
         &lt;effort/&gt;
@@ -116,9 +119,9 @@
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;c4361121835312101024b3a6feaad322&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-06-30 14:59:23&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2025-07-04 12:52:31&lt;/sys_updated_on&gt;
         &lt;task&gt;Create the representation of SAP as an Application Service and correctly relate it to SAP Business Application according to CSDM model​STRY0010061&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010061&lt;/task_effective_number&gt;
         &lt;theme/&gt;
@@ -151,14 +154,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:56</sys_created_on>
         <sys_id>d7869921835312101024b3a6feaad32b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Create the representation of SAP as an Application Service and correctly relate it to SAP Business Application according to CSDM model</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_d7869921835312101024b3a6feaad32b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-03 10:08:34</sys_updated_on>
+        <sys_updated_on>2025-07-04 13:16:56</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>

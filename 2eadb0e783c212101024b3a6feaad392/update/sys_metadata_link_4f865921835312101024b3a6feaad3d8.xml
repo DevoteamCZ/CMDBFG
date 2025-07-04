@@ -41,7 +41,7 @@
         <dependency/>
         <description/>
         <due_date/>
-        <duration>1970-01-02 00:00:00</duration>
+        <duration>1970-01-03 00:00:00</duration>
         <effort/>
         <end>2025-01-24</end>
         <end_date>2025-01-24 12:10:20</end_date>
@@ -108,7 +108,7 @@
         <start_date_derived_from/>
         <state>-6</state>
         <status>green</status>
-        <story_points/>
+        <story_points>2</story_points>
         <sub_tree_root/>
         <sys_class_name>rm_story</sys_class_name>
         <sys_created_by>admin</sys_created_by>
@@ -116,9 +116,9 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>44361121835312101024b3a6feaad30c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-30 14:32:27</sys_updated_on>
+        <sys_updated_on>2025-07-04 12:32:56</sys_updated_on>
         <task>Interpret CI lifecycle​STRY0010057</task>
         <task_effective_number>STRY0010057</task_effective_number>
         <theme/>
@@ -151,14 +151,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:54</sys_created_on>
         <sys_id>4f865921835312101024b3a6feaad3d8</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Interpret CI lifecycle</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_4f865921835312101024b3a6feaad3d8</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-03 10:08:33</sys_updated_on>
+        <sys_updated_on>2025-07-04 13:16:55</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>
