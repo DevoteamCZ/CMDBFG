@@ -39,7 +39,7 @@
         <delivery_plan/>
         <delivery_task/>
         <dependency/>
-        <description/>
+        <description>KB : https://docs.google.com/document/d/1WZul7Ks5uy-wqNcGCDILjlwwWMuKUujdg8Zyy4SWP0M/edit?usp=sharing</description>
         <due_date/>
         <duration>1970-01-04 00:00:00</duration>
         <effort/>
@@ -116,9 +116,9 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2b26dded831312101024b3a6feaad3cf</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-06-30 14:41:13</sys_updated_on>
+        <sys_updated_on>2025-07-21 15:01:34</sys_updated_on>
         <task>Install MID server​STRY0010046</task>
         <task_effective_number>STRY0010046</task_effective_number>
         <theme/>
@@ -151,14 +151,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:54</sys_created_on>
         <sys_id>cb865921835312101024b3a6feaad3d3</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Install MID server</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_cb865921835312101024b3a6feaad3d3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-03 10:08:33</sys_updated_on>
+        <sys_updated_on>2025-07-25 10:40:58</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>
