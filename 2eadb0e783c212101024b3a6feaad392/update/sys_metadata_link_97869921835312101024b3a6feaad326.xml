@@ -106,7 +106,7 @@
         &lt;start&gt;2025-01-24&lt;/start&gt;
         &lt;start_date&gt;2025-01-24 12:10:19&lt;/start_date&gt;
         &lt;start_date_derived_from/&gt;
-        &lt;state&gt;-6&lt;/state&gt;
+        &lt;state&gt;1&lt;/state&gt;
         &lt;status&gt;green&lt;/status&gt;
         &lt;story_points&gt;2&lt;/story_points&gt;
         &lt;sub_tree_root/&gt;
@@ -116,9 +116,9 @@
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;bb26dded831312101024b3a6feaad3e5&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-06-30 14:43:56&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2025-07-28 14:42:58&lt;/sys_updated_on&gt;
         &lt;task&gt;Run an impact analysis for a change request and interpret its effect on CIs.​STRY0010050&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010050&lt;/task_effective_number&gt;
         &lt;theme/&gt;
@@ -151,14 +151,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:55</sys_created_on>
         <sys_id>97869921835312101024b3a6feaad326</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>Run an impact analysis for a change request and interpret its effect on CIs.</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_97869921835312101024b3a6feaad326</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-03 10:08:34</sys_updated_on>
+        <sys_updated_on>2025-08-01 10:34:43</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>

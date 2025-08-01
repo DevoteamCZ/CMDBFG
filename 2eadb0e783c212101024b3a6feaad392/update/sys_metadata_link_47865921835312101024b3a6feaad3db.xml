@@ -4,7 +4,7 @@
         <documentkey>4c361121835312101024b3a6feaad306</documentkey>
         <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="rm_story"&gt;
     &lt;rm_story action="INSERT_OR_UPDATE"&gt;
-        &lt;acceptance_criteria&gt;&lt;![CDATA[&lt;p&gt;New model category &amp;#34;Extra Server&amp;#34; is configured and linked to CMDB table. Synchronization between Assets and their linked CIs is functional&lt;/p&gt;]]&gt;&lt;/acceptance_criteria&gt;
+        &lt;acceptance_criteria&gt;&lt;![CDATA[&lt;p&gt;New model category &amp;#34;Extra Server&amp;#34; is configured and linked to CMDB table. Synchronization between Assets and their linked CIs is functional including the new VIP field.&lt;/p&gt;]]&gt;&lt;/acceptance_criteria&gt;
         &lt;active&gt;true&lt;/active&gt;
         &lt;activity_due/&gt;
         &lt;additional_assignee_list/&gt;
@@ -39,7 +39,8 @@
         &lt;delivery_plan/&gt;
         &lt;delivery_task/&gt;
         &lt;dependency/&gt;
-        &lt;description&gt;Create new Model category that will contain basic definition and details of a class of assets called "Extra server" and link to appropriate CI Class&lt;/description&gt;
+        &lt;description&gt;Create new Model category that will contain basic definition and details of a class of assets called "Extra server" and link to appropriate CI Class.&amp;#13;
+Create a new custom True/false field called VIP on both alm_asset and cmdb_ci level. Make sure this is synced using Asset-Ci field mappings.&lt;/description&gt;
         &lt;due_date/&gt;
         &lt;duration&gt;1970-01-03 00:00:00&lt;/duration&gt;
         &lt;effort/&gt;
@@ -97,7 +98,7 @@
         &lt;schedule_start_date&gt;2025-01-24 12:10:20&lt;/schedule_start_date&gt;
         &lt;service_offering/&gt;
         &lt;shadow&gt;false&lt;/shadow&gt;
-        &lt;short_description&gt;Replicate "Extra Windows Server" CIs to the "Extra Windows Server" asset. Mapp some new field (to be done)&lt;/short_description&gt;
+        &lt;short_description&gt;Replicate "Extra Windows Server" CIs to the "Extra Windows Server" asset.&lt;/short_description&gt;
         &lt;sla_due/&gt;
         &lt;software_model/&gt;
         &lt;split_from/&gt;
@@ -106,7 +107,7 @@
         &lt;start&gt;2025-01-24&lt;/start&gt;
         &lt;start_date&gt;2025-01-24 12:10:20&lt;/start_date&gt;
         &lt;start_date_derived_from/&gt;
-        &lt;state&gt;-6&lt;/state&gt;
+        &lt;state&gt;1&lt;/state&gt;
         &lt;status&gt;green&lt;/status&gt;
         &lt;story_points&gt;2&lt;/story_points&gt;
         &lt;sub_tree_root/&gt;
@@ -116,10 +117,10 @@
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;4c361121835312101024b3a6feaad306&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-06-30 14:55:28&lt;/sys_updated_on&gt;
-        &lt;task&gt;Replicate "Extra Windows Server" CIs to the "Extra Windows Server" asset. Mapp some new field (to be done)​STRY0010056&lt;/task&gt;
+        &lt;sys_updated_on&gt;2025-07-28 15:04:19&lt;/sys_updated_on&gt;
+        &lt;task&gt;Replicate "Extra Windows Server" CIs to the "Extra Windows Server" asset.​STRY0010056&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010056&lt;/task_effective_number&gt;
         &lt;theme/&gt;
         &lt;time_constraint&gt;asap&lt;/time_constraint&gt;
@@ -151,14 +152,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:54</sys_created_on>
         <sys_id>47865921835312101024b3a6feaad3db</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Replicate "Extra Windows Server" CIs to the "Extra Windows Server" asset. Mapp some new field (to be done)</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Replicate "Extra Windows Server" CIs to the "Extra Windows Server" asset.</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_47865921835312101024b3a6feaad3db</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-03 10:08:33</sys_updated_on>
+        <sys_updated_on>2025-08-01 10:34:43</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>

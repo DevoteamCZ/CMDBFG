@@ -39,8 +39,9 @@
         &lt;delivery_plan/&gt;
         &lt;delivery_task/&gt;
         &lt;dependency/&gt;
-        &lt;description&gt;In this story, you’ll assign yourself to a group called Database. As the manager of a group you will assign three laptops CIs using the “ Assignment group” field.&amp;#13;
-Then, create a catalog item to allow you to assign laptops to the members of your group (database). Then create a request that will assign CI (laptop) to a specific member of your group.&lt;/description&gt;
+        &lt;description&gt;In this story, you’ll assign yourself to a group called Database. As the manager of a group you will assign three laptop CIs using the “ Assigned to” field.&amp;#13;
+&amp;#13;
+Create a catalog item to allow you to assign laptops to the members of your group (database). Then create a request that will assign CI (laptop) to a specific member of your group.&lt;/description&gt;
         &lt;due_date/&gt;
         &lt;duration&gt;1970-01-04 00:00:00&lt;/duration&gt;
         &lt;effort/&gt;
@@ -107,7 +108,7 @@ Then, create a catalog item to allow you to assign laptops to the members of you
         &lt;start&gt;2025-01-24&lt;/start&gt;
         &lt;start_date&gt;2025-01-24 12:10:19&lt;/start_date&gt;
         &lt;start_date_derived_from/&gt;
-        &lt;state&gt;-6&lt;/state&gt;
+        &lt;state&gt;1&lt;/state&gt;
         &lt;status&gt;green&lt;/status&gt;
         &lt;story_points&gt;3&lt;/story_points&gt;
         &lt;sub_tree_root/&gt;
@@ -117,9 +118,9 @@ Then, create a catalog item to allow you to assign laptops to the members of you
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;b326dded831312101024b3a6feaad3eb&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-06-30 14:47:30&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2025-07-28 14:47:14&lt;/sys_updated_on&gt;
         &lt;task&gt;You are the manager of a group and you need to re-distribute laptops to member(s) of a group.​STRY0010051&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010051&lt;/task_effective_number&gt;
         &lt;theme/&gt;
@@ -152,14 +153,14 @@ Then, create a catalog item to allow you to assign laptops to the members of you
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:55</sys_created_on>
         <sys_id>13869921835312101024b3a6feaad30b</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>You are the manager of a group and you need to re-distribute laptops to member(s) of a group.</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_13869921835312101024b3a6feaad30b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-03 10:08:34</sys_updated_on>
+        <sys_updated_on>2025-08-01 10:34:43</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>
