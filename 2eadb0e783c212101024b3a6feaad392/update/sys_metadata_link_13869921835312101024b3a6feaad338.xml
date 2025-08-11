@@ -38,6 +38,7 @@
         &lt;defect/&gt;
         &lt;delivery_plan/&gt;
         &lt;delivery_task/&gt;
+        &lt;demand/&gt;
         &lt;dependency/&gt;
         &lt;description&gt;As a developer, I want to use Integration Hub ETL (Extract, Transform, Load) with the Identification and Reconciliation Engine (IRE) to load data from a file into ServiceNow. This will ensure the data is transformed, mapped, and properly reconciled against the CMDB to prevent duplicates and maintain data integrity. This story builds upon the previously established identification rules for Windows Server class CIs where "File Load" is set as primary for Operating System attributes and secondary for Asset Tag and Serial Number attributes.&amp;#13;
 &amp;#13;
@@ -64,7 +65,6 @@ https://docs.google.com/document/d/1TFYCf1FB7eAe3So_LLoiq18tfEVRbAZR1SeuQ519ZN8/
         &lt;has_conflict&gt;false&lt;/has_conflict&gt;
         &lt;html_description/&gt;
         &lt;impact&gt;3&lt;/impact&gt;
-        &lt;is_enabler&gt;false&lt;/is_enabler&gt;
         &lt;key_milestone&gt;false&lt;/key_milestone&gt;
         &lt;knowledge&gt;false&lt;/knowledge&gt;
         &lt;level/&gt;
@@ -83,12 +83,15 @@ https://docs.google.com/document/d/1TFYCf1FB7eAe3So_LLoiq18tfEVRbAZR1SeuQ519ZN8/
         &lt;parent display_value="SPNT0010002"&gt;54e7d28493e2a2102c5c3a8efaba1086&lt;/parent&gt;
         &lt;parent_feature/&gt;
         &lt;percent_complete&gt;0&lt;/percent_complete&gt;
-        &lt;prereq/&gt;
+        &lt;phase_type&gt;waterfall&lt;/phase_type&gt;
         &lt;primary_goal/&gt;
         &lt;priority&gt;4&lt;/priority&gt;
         &lt;product display_value="CMDB Onboarding Program"&gt;36fdf8e783c212101024b3a6feaad33b&lt;/product&gt;
         &lt;product_rank/&gt;
         &lt;product_rel_index&gt;1000000&lt;/product_rel_index&gt;
+        &lt;project/&gt;
+        &lt;project_index/&gt;
+        &lt;project_phase/&gt;
         &lt;rank/&gt;
         &lt;reassignment_count&gt;1&lt;/reassignment_count&gt;
         &lt;rejection_goto/&gt;
@@ -105,6 +108,7 @@ https://docs.google.com/document/d/1TFYCf1FB7eAe3So_LLoiq18tfEVRbAZR1SeuQ519ZN8/
         &lt;service_offering/&gt;
         &lt;shadow&gt;false&lt;/shadow&gt;
         &lt;short_description&gt;Load Windows Server CI data using Integration Hub ETL with IRE to properly identify and update CMDB records using existing discovery source and identification&lt;/short_description&gt;
+        &lt;skills/&gt;
         &lt;sla_due/&gt;
         &lt;software_model/&gt;
         &lt;split_from/&gt;
@@ -123,15 +127,20 @@ https://docs.google.com/document/d/1TFYCf1FB7eAe3So_LLoiq18tfEVRbAZR1SeuQ519ZN8/
         &lt;sys_domain&gt;global&lt;/sys_domain&gt;
         &lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;
         &lt;sys_id&gt;ef26dded831312101024b3a6feaad3be&lt;/sys_id&gt;
-        &lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;
+        &lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;
         &lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;
-        &lt;sys_updated_on&gt;2025-07-21 14:53:41&lt;/sys_updated_on&gt;
+        &lt;sys_updated_on&gt;2025-08-11 14:21:28&lt;/sys_updated_on&gt;
         &lt;task&gt;Load Windows Server CI data using Integration Hub ETL with IRE to properly identify and update CMDB records using existing discovery source and identification​STRY0010043&lt;/task&gt;
         &lt;task_effective_number&gt;STRY0010043&lt;/task_effective_number&gt;
+        &lt;team/&gt;
+        &lt;team_index/&gt;
         &lt;theme/&gt;
+        &lt;time_card_at_top_task&gt;false&lt;/time_card_at_top_task&gt;
         &lt;time_constraint&gt;asap&lt;/time_constraint&gt;
         &lt;time_worked/&gt;
         &lt;time_zone/&gt;
+        &lt;top_portfolio/&gt;
+        &lt;top_program/&gt;
         &lt;top_task display_value="STRY0010043"&gt;ef26dded831312101024b3a6feaad3be&lt;/top_task&gt;
         &lt;type/&gt;
         &lt;universal_request/&gt;
@@ -152,20 +161,59 @@ https://docs.google.com/document/d/1TFYCf1FB7eAe3So_LLoiq18tfEVRbAZR1SeuQ519ZN8/
         &lt;work_notes_list/&gt;
         &lt;work_start/&gt;
     &lt;/rm_story&gt;
+    &lt;sys_attachment action="INSERT_OR_UPDATE"&gt;
+        &lt;average_image_color/&gt;
+        &lt;chunk_size_bytes&gt;700000&lt;/chunk_size_bytes&gt;
+        &lt;compressed&gt;true&lt;/compressed&gt;
+        &lt;content_type&gt;text/csv&lt;/content_type&gt;
+        &lt;file_name&gt;File Load with IH ETL - cmdb_ci_win_server.xlsx - Page 1.csv&lt;/file_name&gt;
+        &lt;hash&gt;a8399ff249f980999f1cdc49ecf65d013cf54cbc9b32934d2ea41aa336721cd9&lt;/hash&gt;
+        &lt;image_height/&gt;
+        &lt;image_width/&gt;
+        &lt;size_bytes&gt;776&lt;/size_bytes&gt;
+        &lt;size_compressed&gt;275&lt;/size_compressed&gt;
+        &lt;state&gt;available&lt;/state&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2025-08-11 14:21:28&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;1d982ae983132210648593b6feaad3ba&lt;/sys_id&gt;
+        &lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;
+        &lt;sys_updated_by&gt;system&lt;/sys_updated_by&gt;
+        &lt;sys_updated_on&gt;2025-08-11 14:21:30&lt;/sys_updated_on&gt;
+        &lt;table_name&gt;rm_story&lt;/table_name&gt;
+        &lt;table_sys_id&gt;ef26dded831312101024b3a6feaad3be&lt;/table_sys_id&gt;
+    &lt;/sys_attachment&gt;
+    &lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;
+        &lt;data&gt;H4sIAAAAAAAA/w==&lt;/data&gt;
+        &lt;length&gt;16&lt;/length&gt;
+        &lt;position&gt;0&lt;/position&gt;
+        &lt;sys_attachment display_value="File Load with IH ETL - cmdb_ci_win_server.xlsx - Page 1.csv" sys_id="1d982ae983132210648593b6feaad3ba"&gt;1d982ae983132210648593b6feaad3ba&lt;/sys_attachment&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2025-08-11 14:21:28&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;5d982ae983132210648593b6feaad3ba&lt;/sys_id&gt;
+    &lt;/sys_attachment_doc&gt;
+    &lt;sys_attachment_doc action="INSERT_OR_UPDATE"&gt;
+        &lt;data&gt;nZHLasMwEEX3hf6DPmAM0ujppdtsCo0jEDTpUsFqMPhRJJfSv6+hSWocqkV3s5hzhnun9n2AKqUwkcmfYPceop/a4UTcV5pCDy7E1ndk+OiPIcLOkZcQUzsO8GRJ1TQxpATb6vEy39/t9lXhNgVlYBmllDF12Gxh3w7N+JnIwRIbx7d5c3b4DmoujKRotLMAcENzSbM0Ii5p68jz6JsH313Po8gKJJZGC8XPAlfZG0NpsgbGuEBampwhX4E2fxrwkiJfw5xSzhb1ayjq1+JKc56lldTC8BIX9OIFtMw3yIVU2iBb0efbc/gsbbSSgiNd0fyHRprPLZXQ3GC5osU/6G94UUkMCAMAAA==&lt;/data&gt;
+        &lt;length&gt;356&lt;/length&gt;
+        &lt;position&gt;1&lt;/position&gt;
+        &lt;sys_attachment display_value="File Load with IH ETL - cmdb_ci_win_server.xlsx - Page 1.csv" sys_id="1d982ae983132210648593b6feaad3ba"&gt;1d982ae983132210648593b6feaad3ba&lt;/sys_attachment&gt;
+        &lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;
+        &lt;sys_created_on&gt;2025-08-11 14:21:28&lt;/sys_created_on&gt;
+        &lt;sys_id&gt;dd982ae983132210648593b6feaad3ba&lt;/sys_id&gt;
+    &lt;/sys_attachment_doc&gt;
 &lt;/record_update&gt;
 </payload>
         <sys_class_name>sys_metadata_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2025-01-24 12:11:56</sys_created_on>
         <sys_id>13869921835312101024b3a6feaad338</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Load Windows Server CI data using Integration Hub ETL with IRE to properly identify and update CMDB records using existing discovery source and identification</sys_name>
         <sys_package display_value="CMDB Onboarding Program" source="x_429623_cmdb_on_0">2eadb0e783c212101024b3a6feaad392</sys_package>
         <sys_policy/>
         <sys_scope display_value="CMDB Onboarding Program">2eadb0e783c212101024b3a6feaad392</sys_scope>
         <sys_update_name>sys_metadata_link_13869921835312101024b3a6feaad338</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-07-25 10:40:58</sys_updated_on>
+        <sys_updated_on>2025-08-11 14:23:20</sys_updated_on>
         <tablename>rm_story</tablename>
     </sys_metadata_link>
 </record_update>
